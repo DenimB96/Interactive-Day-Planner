@@ -6,3 +6,8 @@ To use source code to help make a daily planner for a standard 9-5 work schedule
 
 ### Results 
 I developed a daily planner that shows the current time and date. I created time blocks for the possible events during the day and they're color coded with grey as the past, red as the present, and green as the future. When you enter a event into a time block you can then click the save button and it will save into the time block field via local storage and will persist in the field when refreshed until a new event is stored. 
+
+#### Deployed Webpage
+
+##### Deployed Webpage Screenshot
+![image](https://user-images.githubusercontent.com/120414766/216251071-46ee464e-41c3-494b-8e2c-0153b7d3e6bc.png)
